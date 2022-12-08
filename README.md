@@ -9,6 +9,6 @@ It was tested only with GET requests, and the raw string should have the followi
 - The third line must have the cookies (if the request has any)
 - The rest of the request should be the headers
 
-Please make sure that the format of the request you paste is the same that the picture shows. For example:
-- Do not leave blank lines
-- Each header must contain a white space after the ":" separator.
+Please make sure that the format of the request you paste is the same that the picture shows. For example, make sure that you:
+- Did not leave blank lines before or after the request in the string
+- Left a blank space after the ":" separator in each header
