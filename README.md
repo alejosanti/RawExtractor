@@ -1,5 +1,5 @@
 # RawExtractor
-It's a short Python script that extracts the data from an HTTP request in it's raw format, so you can use the resulting dictionaries in a classic Python request.
+It's a short Python script that extracts the data from an HTTP request in its raw format, so you can use the resulting dictionaries in a classic Python request.
 
 It was tested only with GET requests, and the raw string should have the following format:
 ![image](https://user-images.githubusercontent.com/50599731/206590183-e73759b3-c12c-40bf-9a87-bd587e9b8189.png)
